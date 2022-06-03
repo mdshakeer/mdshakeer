@@ -1,0 +1,195 @@
+body {
+	background: #f0f0f0;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 200;
+}
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+.full {
+	width: 100%;
+}
+.qt {
+	width: 25%;
+}
+.hf {
+	width: 50%;
+}
+.qt3 {
+	width: 75%;
+}
+.rt8 {
+	width: 80%;
+}
+.rt7 {
+	width: 70%;
+}
+.rt65 {
+	width: 65%;
+}
+.rt6 {
+	width: 60%;
+}
+.rt4 {
+	width: 40%;
+}
+.rt35 {
+	width: 35%;
+}
+.rt3 {
+	width: 30%;
+}
+.rt2 {
+	width: 20%;
+}
+.wt400 {
+	font-weight: 400;
+}
+.wt500 {
+	font-weight: 500;
+}
+.h1 {
+	font-size: 42px;
+	font-weight: 500;
+}
+.h2 {
+	font-size: 28px;
+}
+.h3 {
+	font-size: 24px;
+}
+.h4 {
+	font-size: 20px;
+}
+.h5 {
+	font-size: 18px;
+}
+.d-in-b {
+	display: inline-block;
+}
+.text-right {
+	text-align: right;
+}
+.text-center {
+	text-align: center;
+}
+.text-muted {
+	color: #888;
+}
+.fi {
+	font-style: italic;
+}
+.ul {
+	width: 25%;
+	height: 1px;
+	background-color: #fff;
+	display: block;
+	margin: auto;
+}
+.hc {
+	color: #f2bc4c;
+}
+.pull-right {
+	float: right;
+}
+.pull-left {
+	float: left;
+}
+.fx {
+	display: flex;
+}
+.theme-color {
+	color: #2e3e4d;
+}
+.resume {
+	width: 68%;
+	min-height: 600px;
+	height: 100%;
+	margin: auto;
+	background-color: #fff;
+	border-bottom: 10px solid #2e3e4d;
+}
+.view1 {
+	background-color: #2e3e4d;
+	/*background-color: #479099;*/
+	/*background-color: #5b9cd6;*/
+	padding: 0 20px;
+	height: 185px;
+	color: #fff;
+}
+.view1 .name {
+	margin-bottom: 7px;
+}
+.view2 {
+	margin-left: 10%;
+	padding: 30px 80px;
+	width: 90%;
+	font-weight: 300;
+}
+.my-photo {
+	border: 10px solid #2e3e4d;
+	border-radius: 50%;
+	position: relative;
+	top: 35px;
+	width: 185px;
+}
+.my-info > div{
+	margin: 10px 0;
+	font-size: 18px;
+}
+.my-info h1, .my-info h2, .my-info h3{
+	margin: 0;
+}
+.view3 {
+	padding: 0 20px;
+	padding-bottom: 20px;
+}
+.view3 .sub-head {
+	font-size: 26px;
+	font-weight: 400;
+	margin-bottom: 12px;
+}
+.view3 .comp {
+	font-weight: 500;
+	margin-bottom: 3px;
+}
+.view3 .duration {
+	font-weight: 400;
+	color: #2e3e4d;
+}
+.view3 .exp {
+	margin-right: 25px;
+}
+.view3 .exp.t {
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #c0c0c0;
+}
+.view3 .exp ul {
+	font-weight: 400;
+}
+.bk .ct {
+	margin-bottom: 40px;
+}
+.bk .ct.skill-list span {
+	background-color: #e5e5e5;
+	padding: 5px 10px;
+	font-weight: 400;
+	display: inline-block;
+	margin: 0 4px;
+	margin-bottom: 8px;
+	border-radius: 5px;
+	color: #2e3e4d;
+}
+.bk .ct .acheivement .h3 {
+	font-weight: 400;
+}
+.bk .ct .acheivement .h4 {
+	font-weight: 400;
+	color: #888;
+}
