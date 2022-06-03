@@ -109,6 +109,7 @@ a {
 .resume {
 	width: 68%;
 	min-height: 600px;
+	min-width: 900px;
 	height: 100%;
 	margin: auto;
 	background-color: #fff;
